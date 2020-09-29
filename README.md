@@ -36,3 +36,5 @@ P.S If you are a faculty and somehow got this I'm sorry :p
 
 ## Testing
 in progress :)
+
+Im just a tester special thanks to [@Shini](https://github.com/ShiniM0d0ri)  for his hard work and dedication.
