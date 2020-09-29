@@ -1,0 +1,17 @@
+# Day Hour Duration(minutes) CourseNumber(from CourseList.md)
+monday 09 55 4
+monday 10 55 2
+monday 11 115 3
+monday 14 55 7
+tuesday 10 55 2
+tuesday 14 55 7
+tuesday 15 55 8
+wednesday 09 55 6
+wednesday 10 55 4
+wednesday 11 115 5
+thursday 09 55 6
+thursday 11 115 1
+saturday 09 55 4
+saturday 11 55 2
+saturday 13 55 6
+sunday 14 55 7
